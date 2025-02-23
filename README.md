@@ -1,5 +1,5 @@
-#freeCodeCamp
-##Celestial Bodies Database
+# freeCodeCamp
+## Celestial Bodies Database
 
 This is for the freeCodeCamp Curriculum Relational Database Course.
 It is for the first certification or the third course called the Celetial Bodies Database.
@@ -11,5 +11,5 @@ If there was an error during step 2 where it states that the first part of the c
   prior to completing the challenge, then while the gitPod completetion screen is up in the same browser on a different tab,
   refresh the screen of the freeCodeCamp Celestial Bodies course, then paste the link and select complete challenge again.
 ```
-This was mhow it worked for me
+This was how it worked for me
 ```
